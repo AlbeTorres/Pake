@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/modificardiscoItem"
+        android:icon="@drawable/ic_action_edit"
+        android:title="AddCliente"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/eliminardiscoItem"
+        android:icon="@drawable/ic_action_delete"
+        android:title="AddCliente"
+        app:showAsAction="always"/>
+
+
+</menu>
